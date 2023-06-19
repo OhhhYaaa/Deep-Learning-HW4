@@ -1,0 +1,9 @@
+dataset/
+label_map.json
+TEST_images.json
+VAL_images.json
+TRAIN_images.json
+TEST_objects.json
+VAL_objects.json
+TRAIN_objects.json
+__pycache__/
